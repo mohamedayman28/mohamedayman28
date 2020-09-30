@@ -1,6 +1,6 @@
 ```css
 mohamed_ayman = {
-    career: "web dev",
+    career: "software developer",
     skills: {
         front_end: {
             html_css: ["bootstrap"]

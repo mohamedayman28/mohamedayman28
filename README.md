@@ -1,4 +1,4 @@
-```python
+```css
 mohamed_ayman = {
     career: "web dev",
     skills: {
@@ -10,6 +10,11 @@ mohamed_ayman = {
         },
         database: ["PostgreSQL"]
     },
-    hopesTo: "Impact others through simplifying code knowledge."
+    hopes_to: "Impact others through simplifying code knowledge."
 };
 ```
+
+Find me at:
+* Gmail: moh.ayman.hassen@gmail.com.
+* Website: PythonEgy.com
+* Facebook: https://www.facebook.com/MohamedAymanHassen/

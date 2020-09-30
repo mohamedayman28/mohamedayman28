@@ -15,6 +15,6 @@ mohamed_ayman = {
 ```
 
 Find me at:
-* Gmail: moh.ayman.hassen@gmail.com.
-* Website: PythonEgy.com
+* Gmail: moh.ayman.hassen@gmail.com
+* Website: http://www.pythonegy.com/
 * Facebook: https://www.facebook.com/MohamedAymanHassen/

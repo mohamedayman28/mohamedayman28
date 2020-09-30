@@ -1,11 +1,11 @@
-```
+```python
 mohamed_ayman = {
     career: "web dev",
     skills: {
-        frontEnd: {
+        front_end: {
             html_css: ["bootstrap"]
         },
-        backEnd: {
+        back_end: {
             python: ["Django"],
         },
         database: ["PostgreSQL"]

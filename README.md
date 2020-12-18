@@ -1,3 +1,5 @@
+## Profile
+
 ```css
 mohamed_ayman = {
     career: "Backend engineer",
@@ -13,12 +15,13 @@ mohamed_ayman = {
     hopes_to: "Simplify it ot impact knowledge."
 };
 ```
+## Coding Activity
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedayman28&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedayman28&hide=issues)](https://github.com/anuraghazra/github-readme-stats)]
 
-[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28)](https://github.com/anuraghazra/github-readme-stats)
+[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28)](https://github.com/anuraghazra/github-readme-stats)]
 
-Find me at:
+## Contact:
 * Gmail: moh.ayman.hassen@gmail.com
 * My Website [PythonEgy](http://www.pythonegy.com/)
 * I write regularly on my [Facebook](https://www.facebook.com/MohamedAymanHassen/) profile.

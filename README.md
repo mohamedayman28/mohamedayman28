@@ -10,11 +10,6 @@ mohamed_ayman = {
         },
         database: ["PostgreSQL"]
     },
-    "social": {
-        "gmail": "moh.ayman.hassen@gmail.com",
-        "website": "[PythonEgy](http://www.pythonegy.com/)",
-        "regular_writer_on": "[Facebook](https://www.facebook.com/MohamedAymanHassen/) profile."
-     },
     hopes_to: "Impact others through simplifying code knowledge."
 };
 ```
@@ -24,5 +19,11 @@ mohamed_ayman = {
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?mohamedayman28=willianrod&layout=compact" />
 </a>
+
+
+Social
+Gmail: moh.ayman.hassen@gmail.com
+Website: [PythonEgy](http://www.pythonegy.com/)
+Regular writer on my [Facebook](https://www.facebook.com/MohamedAymanHassen/) profile.

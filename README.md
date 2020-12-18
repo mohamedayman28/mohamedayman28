@@ -15,7 +15,7 @@ mohamed_ayman = {
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedayman28&count_private=true&show_icons=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedayman28&count_private=true&show_icons=true&theme=default&hide=contribs,issues" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -22,7 +22,7 @@ mohamed_ayman = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28" />
 </a>
 
-<br/><br/>
+<br/>
 
 Find me at:
 * Gmail: moh.ayman.hassen@gmail.com

@@ -18,11 +18,9 @@ mohamed_ayman = {
         },
         database: ["PostgreSQL"]
     },
-    hopes_to: "Impact others through simplifying code knowledge."
+    hopes_to: "Simplify it ot impact knowledge."
 };
 ```
-
-<br/><br/>
 
 Find me at:
 * Gmail: moh.ayman.hassen@gmail.com

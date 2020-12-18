@@ -18,12 +18,12 @@ mohamed_ayman = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedayman28&count_private=true&show_icons=true&theme=default" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28" />
 </a>
 
 
-### Social
-    - Gmail: moh.ayman.hassen@gmail.com
-    - Website: [PythonEgy](http://www.pythonegy.com/)
-    - Regular writer on my [Facebook](https://www.facebook.com/MohamedAymanHassen/) profile.
+Find me at:
+* Gmail: moh.ayman.hassen@gmail.com
+* My Website [PythonEgy](http://www.pythonegy.com/)
+* I write regularly on my [Facebook](https://www.facebook.com/MohamedAymanHassen/) profile.

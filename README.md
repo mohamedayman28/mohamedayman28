@@ -1,11 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedayman28&count_private=true&show_icons=true&theme=default&hide=contribs,issues" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28" />
-</a>
-
 ```css
 mohamed_ayman = {
     career: "Backend engineer",
@@ -21,6 +13,10 @@ mohamed_ayman = {
     hopes_to: "Simplify it ot impact knowledge."
 };
 ```
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedayman28&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28)](https://github.com/anuraghazra/github-readme-stats)
 
 Find me at:
 * Gmail: moh.ayman.hassen@gmail.com

@@ -19,7 +19,7 @@ mohamed_ayman = {
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28" />
 </a>
 
 Find me at:

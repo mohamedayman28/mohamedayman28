@@ -7,12 +7,12 @@ mohamed_ayman = {
         front_end: {
             "html_css": ["bootstrap"]
         },
-        "back_end": {
+        back_end: {
             "python": ["Django"]
         },
-        "database": ["PostgreSQL"]
+        database: ["PostgreSQL"]
     },
-    "hopes_to": "Simplify it ot impact knowledge."
+    hopes_to: "Simplify it ot impact knowledge."
 };
 ```
 # Coding Activity

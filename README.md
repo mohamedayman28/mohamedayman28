@@ -2,17 +2,17 @@
 
 ```css
 mohamed_ayman = {
-    career: "Backend engineer",
+    "career": "Backend engineer",
     skills: {
         front_end: {
-            html_css: ["bootstrap"]
+            "html_css": ["bootstrap"]
         },
-        back_end: {
-            python: ["Django"],
+        "back_end": {
+            "python": ["Django"]
         },
-        database: ["PostgreSQL"]
+        "database": ["PostgreSQL"]
     },
-    hopes_to: "Simplify it ot impact knowledge."
+    "hopes_to": "Simplify it ot impact knowledge."
 };
 ```
 # Coding Activity

@@ -9,8 +9,7 @@ mohamed_ayman = {
         },
         back_end: {
             "python": ["Django"]
-        },
-        database: ["PostgreSQL"]
+        }
     },
     hopes_to: "Simplify it ot impact knowledge."
 };

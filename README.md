@@ -15,9 +15,6 @@ mohamed_ayman = {
 };
 ```
 # Coding Activity
-```
-```
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedayman28&hide=issues&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 

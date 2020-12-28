@@ -16,7 +16,7 @@ mohamed_ayman = {
 ```
 # Coding Activity
 
-[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedayman28&theme=vue-dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?theme=vue-dark&username=mohamedayman28&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact:
 * Gmail: moh.ayman.hassen@gmail.com

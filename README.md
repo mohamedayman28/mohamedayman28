@@ -24,4 +24,3 @@ mohamed_ayman = {
 * Gmail: moh.ayman.hassen@gmail.com
 * My Website [PythonEgy](http://www.pythonegy.com/)
 * I write regularly on my [Facebook](https://www.facebook.com/MohamedAymanHassen/) profile.
-s

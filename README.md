@@ -17,7 +17,7 @@ mohamed_ayman = {
 # Coding Activity
 
 
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?theme=react&username=mohamedayman28&show_icons=true&hide=prs,issues,contribs&show_owner=true&include_all_commits=true)
+![Mohamed's github stats](https://github-readme-stats.vercel.app/api?theme=react&username=mohamedayman28&show_icons=true&hide=prs,issues,contribs&show_owner=true&include_all_commits=true&V=2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=react&username=mohamedayman28&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -3,14 +3,13 @@
 ```python
 mohamed_ayman = {
     "Career": "Backend Engineer in Web",
-
     'Skills': {
-        'front_end': [
+        'FrontEnd': [
             'HTML',
             'Bootstrap',
             'Vue.js'
         ],
-        'back_end': [
+        'BackEnd': [
             'Python',
             'Django',
             'RESTful API',
@@ -22,8 +21,7 @@ mohamed_ayman = {
             'Linux (Ubuntu based) OS',
         ],
     },
-
-    'hopes_to': "Simplify it ot impact knowledge."
+    'Hopes': "Simplify it ot impact knowledge."
 }
 ```
 # Coding Activity

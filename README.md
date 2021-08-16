@@ -1,18 +1,30 @@
 # Profile
 
-```css
+```python
 mohamed_ayman = {
-    "career": "Backend engineer in web",
-    skills: {
-        front_end: {
-            "html_css": ["bootstrap"]
-        },
-        back_end: {
-            "python": ["Django"]
-        }
+    "Career": "Backend Engineer in Web",
+
+    'Skills': {
+        'front_end': [
+            'HTML',
+            'Bootstrap',
+            'Vue.js'
+        ],
+        'back_end': [
+            'Python',
+            'Django',
+            'RESTful API',
+            'SQL',
+            'MySQL',
+        ],
+        'Tools': [
+            'Git',
+            'Linux (Ubuntu based) OS',
+        ],
     },
-    hopes_to: "Simplify it ot impact knowledge."
-};
+
+    'hopes_to': "Simplify it ot impact knowledge."
+}
 ```
 # Coding Activity
 

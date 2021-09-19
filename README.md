@@ -4,24 +4,10 @@
 mohamed_ayman = {
     "Career": "Backend Engineer in Web",
     'Skills': {
-        'FrontEnd': [
-            'HTML',
-            'Bootstrap',
-            'Vue.js'
-        ],
-        'BackEnd': [
-            'Python',
-            'Django',
-            'RESTful API',
-            'SQL',
-            'MySQL',
-        ],
-        'Tools': [
-            'Git',
-            'Linux (Ubuntu based) OS',
-        ],
-    },
-    'Hopes': "Simplify it ot impact knowledge."
+        'FrontEnd': ['HTML', 'Bootstrap'],
+        'BackEnd': ['Python', 'Django', 'SQL'],
+        'Tools': ['Git', 'Linux (Ubuntu based) OS']
+    }
 }
 ```
 # Coding Activity
